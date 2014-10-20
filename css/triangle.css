@@ -1,0 +1,24 @@
+ul li  {
+		list-style-type:none;
+		}
+
+header {
+		margin-left:220px;
+		}
+
+p  {
+	margin-top:20px;
+	}
+
+.logo  {
+		margin-top:50px;
+		}
+
+footer {
+		background-color:red;
+		}
+		
+footer p {
+		  color:white;
+		  margin-left:160px;
+		  }
